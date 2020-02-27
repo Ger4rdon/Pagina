@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/IMGWorld.jpg);
+  background-size: 100% 100%;
+  background-position: center;
+  background-attachment: fixed;
+}
+table, tr{
+  color: white;
+  background-color: black;
+  border-color: white;
+
+}
+p, img {
+
+  height: 290px;
+  object-fit: cover;
+}
